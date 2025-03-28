@@ -24,11 +24,13 @@ files_info = {
     f"{download_folder}/user_info.csv": "http://lfs.aminer.cn/misc/moocdata/data/user_info.csv",
     f"{download_folder}/course_info.csv": "http://lfs.aminer.cn/misc/moocdata/data/course_info.csv",
     f"{download_folder}/kddcup15.zip": "http://lfs.aminer.cn/misc/moocdata/data/kddcup15.zip",
+    f"{download_folder}/kdd2_test.csv": "https://bitbucket.org/lics229/mooc-dropout-prediction/raw/8742cb34f2453955c474aa0a50df72d1d59b39f5/data/final/v5/test/FeatureVectorWithLabel.csv",
+    f"{download_folder}/kdd2_train.csv": "https://bitbucket.org/lics229/mooc-dropout-prediction/raw/8742cb34f2453955c474aa0a50df72d1d59b39f5/data/final/v5/train/FeatureVectorWithLabel.csv",
 }
 
 #Create the directory if it doesn't exist
-if not os.path.exists("Data/Original"):
-    os.makedirs("Data/Original")
+if not os.path.exists(download_folder):
+    os.makedirs(download_folder)
 
 #Function to download a file
 def download_file(url, file_path):
@@ -37,14 +39,14 @@ def download_file(url, file_path):
     print(f"Downloaded {file_path} successfully.")
 
 #Function to extract a tar.gz file
-def extract_tar(file_path, extract_to="Data/Original"):
+def extract_tar(file_path, extract_to=download_folder):
     print(f"Extracting files from {file_path}...")
     with tarfile.open(file_path, "r:gz") as tar:
         tar.extractall(path=extract_to)
     print(f"Done extracting files from {file_path}.")
 
 #Function to extract a zip file
-def extract_zip(file_path, extract_to="Data/Original"):
+def extract_zip(file_path, extract_to= download_folder):
     print(f"Extracting files from {file_path}...")
     with zipfile.ZipFile(file_path, "r") as zip_ref:
         zip_ref.extractall(extract_to)
