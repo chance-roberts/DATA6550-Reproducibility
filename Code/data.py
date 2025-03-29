@@ -6,7 +6,7 @@ import tarfile
 import zipfile
 from tkinter import Tk, filedialog
 
-# Hide the main tkinter window
+#Hide the main tkinter window
 root = Tk()
 root.withdraw()
 
