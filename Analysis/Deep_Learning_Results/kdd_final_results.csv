@@ -1,0 +1,3 @@
+,Accuracy,Balanced Accuracy,Recall,Precision,AUC,F1 Score
+Keras-Tensorflow,86.02 ± 0.10,72.30 ± 0.47,86.02 ± 0.10,85.11 ± 0.10,72.30 ± 0.47,91.56 ± 0.06
+Fast.AI,85.93 ± 0.13,71.87 ± 0.60,85.93 ± 0.13,85.02 ± 0.13,71.87 ± 0.60,91.53 ± 0.07
