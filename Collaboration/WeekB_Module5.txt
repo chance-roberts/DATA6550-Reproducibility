@@ -1,0 +1,2295 @@
+[Autumn]:  Okay.
+
+[Chance]:  And the major, if I had a little swirly kid.
+
+[Chance]:  And the bots are already off to a good start with the transcription.
+
+[Chance]:  you
+
+[Autumn]:  Thank you.
+
+[Chance]:  All right, I'm just pasting in my
+ Bye.
+
+[Chance]:  information. Oh, that's going to be really tiny isn't it?
+
+[Autumn]:  Thank you.
+
+[Kristin]:  from the nearby age.
+
+[Kristin]:  That's on the air, but it's crazy thing. It connects to the car every time I get in like
+
+[Chance]:  Thank you.
+
+[Kristin]:  or the whole conversation without a car itself.
+
+[Kristin]:  I come good.
+
+[Kristin]:  Bye.
+
+[Chance]:  Shh.
+
+[Chance]:  Okay, so...
+
+[Kristin]:  Yeah, when I did mine, the audience.
+
+[Kristin]:  I forget which two models now.
+
+[Kristin]:  out and say.
+
+[Kristin]:  neighbors and something else.
+
+[Kristin]:  decision tree. The process validation.
+
+[Kristin]:  Like accuracy or whatever was like way a lot smaller than what they got in the paper and I don't know.
+
+[Kristin]:  Why? And since they don't invite.
+
+[Kristin]:  do any parameters or anything, I really know, you know, what to try to fix it either.
+
+[Chance]:  Yeah, um, I guess that's I think the biggest thing that
+
+[Chance]:  Wee.
+
+[Chance]:  like just kind of going through.
+
+[Chance]:  D.
+
+[Chance]:  Um...
+
+[Kristin]:  Like I think they got like 84.
+
+[Kristin]:  Percent or something for pretty much all of them and those two for me, one of them was like 61 or 66% and 77 so it was like a lot lower.
+
+[Kristin]:  But the test?
+
+[Kristin]:  scores were the same, like as the paper, just the cross-solidation was worse, I don't know.
+
+[Chance]:  I mean, all of yours look about
+
+[Chance]:  because it's just mean accuracy, it's the average accuracy.
+
+[Kristin]:  Yeah, that me and the cross validation accuracy for two of them was like a lot lower the paper.
+
+[Chance]:  Yeah
+
+[Kristin]:  And then I put it for there.
+
+[Chance]:  Yeah, that is interesting.
+
+[Kristin]:  I don't know why.
+
+[Chance]:  Yeah, I'm like.
+
+[Kristin]:  Thank you very much.
+
+[Chance]:  I'll then have to copy over.
+
+[Chance]:  I'll see you on the screen.
+
+[Kristin]:  Yeah, since they didn't do any tuning or parameters or anything, I can't really play with anything.
+
+[Chance]:  And I think that honestly that's like one of the benefits of using the paper that we did is that like it's just a very high
+
+[Kristin]:  just to think we didn't have to do it.
+ Yeah, it was very easy to like build them all.
+
+[Chance]:  It's a very high level overview of which model might be better.
+
+[Chance]:  Um.
+
+[Chance]:  Did you do?
+
+[Chance]:  Okay, I want this as a table.
+
+[Chance]:  but I can't remember how to...
+
+[Kristin]:  Yeah, if I was going to like recommend a model, you know, or whatever.
+
+[Kristin]:  I would say to choose one like.
+
+[Kristin]:  just with computational time.
+
+[Kristin]:  in line since they're all about the same.
+
+[Kristin]:  at clients.
+
+[Kristin]:  This is really good.
+
+[Chance]:  which that was the thing is that like those the interesting thing was it.
+ Um.
+
+[Kristin]:  That's not bad.
+
+[Chance]:  is that like the deep learning models like those only took like maybe 15 minutes to run because I use the same
+
+[Chance]:  Like for the the tensor flow one I use pretty much the same like structure
+
+[Chance]:  that they used in theirs, I had to modify a little bit because the code is old and
+
+[Chance]:  wasn't super like efficient.
+
+[Chance]:  but like other than that like it ran pretty quick like I was surprised with how fast it ran like all three of them ran in about the same amount of time that it took like
+
+[Chance]:  like two of the, presumably two of the,
+
+[Chance]:  the SVM's to run.
+
+[Kristin]:  Like SVM is just, thank you, like something.
+
+[Kristin]:  And she's not dead.
+
+[Kristin]:  Thank you.
+
+[Chance]:  Yeah, I think again, like I said earlier in Discord, like I think it's it's probably just
+
+[Chance]:  It's so reliant on Lake.
+
+[Kristin]:  Thank you.
+
+[Chance]:  either Cloud Computing or just Lake.
+
+[Kristin]:  Thank you.
+
+[Chance]:  like parallel processing, like hooking it up to a computer that has just like
+
+[Chance]:  like a graphics engine that can just run and run and run.
+
+[Chance]:  because yeah, like it's pretty wild that like my PC,
+ like my gaming PC is like.
+
+[Chance]:  It can run most models.
+
+[Chance]:  You can...
+
+[Chance]:  Yeah, but it can run most models in.
+
+[Kristin]:  15 30 minutes or an hour.
+ I'm sorry.
+
+[Kristin]:  I'm just going to give you a few minutes.
+
+[Kristin]:  of any kind of being protected.
+
+[Chance]:  in like maybe 10, 15 minutes, depending on the size of the data, like even last semester,
+ like whenever I did.
+
+[Chance]:  never really did.
+
+[Kristin]:  Oh, yeah.
+
+[Chance]:  LSTM models like
+
+[Chance]:  Gated Recurrent Units and
+ And um...
+
+[Chance]:  like they had so many, like,
+
+[Chance]:  layers like processing through it like I think at most
+
+[Chance]:  all the entirety of that notebook will be typically maybe two hours and that was
+ remaining. I think we did.
+
+[Chance]:  7 machine learning models.
+
+[Kristin]:  Thank you.
+
+[Chance]:  And then three different, um,
+
+[Chance]:  different do you call us three different let's?
+
+[Chance]:  like.
+
+[Chance]:  The two hours late.
+
+[Chance]:  It's been a long time, Blake, it's not bad.
+
+[Kristin]:  You're not really bad now.
+
+[Chance]:  Um.
+
+[Kristin]:  Thank you.
+
+[Chance]:  Yeah, I'm trying to get out.
+
+[Chance]:  You're too beautiful.
+
+[Chance]:  can't miss the formation.
+
+[Chance]:  export well.
+
+[Chance]:  they're trying to get my tables.
+
+[Chance]:  Oh.
+
+[Chance]:  Now its csssssssssssssssssssss
+
+[Kristin]:  Thank you.
+
+[Kristin]:  Thanks for watching.
+
+[Chance]:  What was that? What was that? In court?
+ you
+
+[Kristin]:  Let's first send almost a percolour head by the gate. I hope I love that.
+
+[Kristin]:  that's all there.
+
+[Autumn]:  Thank you.
+
+[Chance]:  and be loose.
+
+[Kristin]:  Bye bye.
+
+[Chance]:  That's fine.
+
+[Chance]:  You
+
+[Autumn]:  about a little maid.
+
+[Autumn]:  Bye!
+
+[Kristin]:  I don't see Ashland
+
+[Chance]:  Yeah, think maybe.
+
+[Autumn]:  I don't know who made me lose her.
+
+[Chance]:  long.
+
+[Chance]:  the whole thing is not terrible.
+
+[Kristin]:  Thank you.
+
+[Chance] - event: disconnected
+[Kristin]:  Oh far.
+
+[Autumn]:  Yeah.
+
+[Chance]:  Okay, is that better?
+ Okay, that's, that's so weird.
+
+[Chance]:  I was like looking at that, I was like, why is that choppy?
+
+[Kristin]:  What's going on?
+
+[Autumn]:  How's the weather in your guys' area?
+ I know like even though the strong storms are coming through right now.
+
+[Chance]:  Yeah.
+
+[Autumn]:  There's like pop ups.
+
+[Chance]:  That was that was why my mom was calling because she lives in Southeast Missouri and like they have like their
+
+[Autumn]:  away.
+
+[Autumn]:  Thank you.
+
+[Chance]:  getting just elacious like wind tornado watches and all that right now.
+
+[Autumn]:  Right.
+
+[Chance]:  So she's like, she's like, hey, you watching out for us?
+ I'm like, yep.
+
+[Kristin]:  doing what I can. Yeah, it was, um, when I went into Kroger, it was like really windy.
+
+[Kristin]:  Yeah.
+
+[Kristin]:  Brinkling a little bit, I don't know, it's not doing much now, so.
+
+[Kristin]:  I'll know.
+
+[Kristin]:  Maybe I'll do more later.
+
+[Kristin]:  I haven't looked at the weather for this evening.
+
+[Autumn]:  Yeah, it's supposed to come in later.
+
+[Autumn]:  tonight is the line of thunderstorms and possible tornadoes.
+
+[Kristin]:  Kaliya.
+
+[Autumn]:  But I think Western Kentucky is bracing for the worst.
+
+[Chance]:  Yeah. Um.
+
+[Chance]:  I went to college in Western Kentucky and it's basically just like, yeah, like, be prepared for, like, for, like, tornadoes, but also, like, intense flooding.
+
+[Chance]:  What was I doing?
+ Insert table, e-day.
+
+[Chance]:  Three by...
+
+[Chance]:  3x7 table.
+
+[Chance]:  We're all still there.
+
+[Autumn]:  Yes, sorry.
+
+[Autumn]:  No.
+
+[Kristin]:  I'm so excited.
+
+[Kristin]:  All right.
+
+[Kristin]:  I can be almost done.
+
+[Chance]:  No, no, no, no, no, no, I was like, I was like, did it drop?
+ Okay.
+
+[Kristin]:  I'm so happy I'm so happy I'm so happy, I'm so happy, I'm so happy.
+
+[Chance]:  Yeah.
+
+[Chance]:  I guess what I cannot just copy the results.
+
+[Chance]:  As I could just do that.
+
+[Chance]:  I don't know if it's going to retain the format I want though.
+
+[Chance]:  I kind of did it.
+
+[Chance]:  That's neat too.
+
+[Chance]:  um...
+
+[Chance]:  They're not a way to just automatically format.
+
+[Autumn]:  Thank you.
+
+[Chance]:  Data NA.
+
+[Chance]:  we're not in now.
+
+[Autumn]:  And.
+
+[Chance]:  because the table I just put into...
+
+[Chance]:  Um.
+
+[Autumn]:  Good luck.
+
+[Chance]:  into the Google Doc is ugly.
+ Bye.
+
+[Autumn]:  Oh no, Bulldogs, their formatting is not my favorite.
+ I...
+
+[Chance]:  Well, it's just like, I'm so accustomed to just being able to, like,
+ double click and it automatically replies.
+
+[Chance]:  And it's like, I can't do that.
+
+[Chance]:  um...
+
+[Chance]:  We're done.
+
+[Chance]:  If I format it as a table.
+
+[Chance]:  table properties.
+
+[Chance]:  Yeah.
+
+[Chance]:  It's not what I want to add.
+
+[Chance]:  Oh, there it is, the Street Rose.
+
+[Chance]:  I'm not sure it comes, but I didn't really solve my issue.
+
+[Chance]:  I can make this.
+
+[Chance]:  centered.
+
+[Chance]:  All right, and I'm just gonna copy this.
+
+[Chance]:  then paste it.
+
+[Chance]:  And then...
+
+[Chance]:  which one did it yourself?
+
+[Chance]:  But yeah, now I definitely feel a lot better about this project when I did the last one.
+
+[Autumn]:  Yeah, me too. I was looking about that the other night because I'd actually finished my rowing my Monday, except for the edition and I was like
+
+[Autumn]:  Yeah, I sat there and thought about it, like this feels much better, much more complete,
+ the last one, I don't know.
+
+[Autumn]:  and get it together.
+
+[Chance]:  Yeah, like...
+
+[Chance]:  I don't know why did I do that?
+
+[Chance]:  Why is the...
+
+[Chance]:  Why are these behind the text?
+
+[Autumn]:  If you right-click, you should be able to get the text wrapping option.
+
+[Chance]:  Oh yeah, me, I've already deleted everything, oh well.
+
+[Chance]:  Um...
+
+[Chance]:  Okay, so we'll just copy this again.
+
+[Chance]:  table properties.
+
+[Chance]:  Oh, there we go.
+
+[Chance]:  I think.
+
+[Chance]:  Okay, there we go.
+
+[Chance]:  Um.
+
+[Chance]:  And now I can just delete it.
+
+[Chance]:  This one.
+
+[Autumn]:  Thank you.
+
+[Chance]:  And then why does it...
+
+[Chance]:  Yeah, I'm not sure what's going on, but like all these hanging and dense are kind of
+
+[Chance]:  and you pull.
+
+[Chance]:  This.
+
+[Chance]:  and see why does it, I guess now, I guess it's supposed to do that.
+
+[Chance]:  But why does it look like that?
+
+[Kristin]:  It's me.
+
+[Kristin]:  but to my computer.
+
+[Kristin]:  Now that I have them formed and have like,
+
+[Kristin]:  the chicken and the ice cream put away.
+
+[Kristin]:  Thank you.
+
+[Chance]:  I can't now I need to...
+
+[Kristin] - event: disconnected
+[Chance]:  QDD fund results.
+
+[Autumn]:  Thank you.
+
+[Autumn]:  Thank you very much.
+
+[Chance]:  the expanded.
+
+[Autumn]:  Thank you.
+
+[Autumn]:  Thank you.
+
+[Chance]:  So, for real?
+
+[Chance]:  Oh, hell, it was rude.
+
+[Chance]:  And now I can get rid of this.
+
+[Kristin]:  Thank you.
+
+[Kristin]:  I'm sharing your chance.
+
+[Kristin]:  We're not screen sharing, are you?
+
+[Chance]:  No, I'm not.
+
+[Kristin]:  I must not miss things.
+
+[Chance]:  Um.
+
+[Chance]:  I don't know what I was going to say.
+
+[Chance]:  So what all do we still?
+
+[Chance]:  I guess the only thing that we need to...
+
+[Chance]:  really do still is
+
+[Chance]:  Um...
+
+[Chance]:  I guess just do we need to like really synthesize like what?
+
+[Chance]:  like a high level review of like what our limitations were.
+
+[Kristin]:  Maybe our light, I guess maybe we just need.
+
+[Kristin]:  Like a...
+
+[Kristin]:  like just a kind of a conclusion section or something?
+
+[Autumn]:  because I don't know for me the biggest hurdle was the SVM.
+
+[Autumn]:  I mean...
+
+[Kristin]:  Me too.
+
+[Autumn]:  at least in running the home.
+
+[Chance]:  Yeah, I'm also just going through and clearing up some of this like the blank spaces.
+
+[Kristin]:  Empty space, yeah.
+
+[Autumn]:  Yeah.
+
+[Autumn]:  It was a little...
+
+[Chance]:  Yeah, um, I think so, I did.
+
+[Autumn]:  Oh, go ahead.
+
+[Chance]:  Oh, sorry.
+ No, no, no, no, no, no, you go, you go, you go.
+
+[Autumn]:  It's okay, um, I guess we can talk about, you know, the initial challenges of flake.
+
+[Autumn]:  Find a you.
+
+[Chance]:  Yeah, because like that.
+
+[Autumn]:  a musical paper.
+
+[Chance]:  I wouldn't even say finding a useful paper.
+ I would say like the, I'll talk, I'll write a few words about, um,
+
+[Chance]:  about the, um,
+
+[Chance]:  just like the data acquisition.
+
+[Autumn]:  Aha!
+
+[Chance]:  because that was like
+
+[Autumn]:  Yeah.
+
+[Chance]:  I mean, like
+
+[Kristin]:  I'll be back as you had to do so much to get it like to load in everything for everybody.
+
+[Chance]:  Yeah, like
+
+[Chance]:  like the limitations was like.
+
+[Kristin]:  We should definitely talk about that.
+
+[Chance]:  So here I'm just going to put Lake.
+
+[Kristin]:  Thank you.
+
+[Chance]:  um...
+
+[Chance]:  So conclusion.
+
+[Chance]:  Um...
+
+[Chance]:  Here's your shuns.
+
+[Chance]:  I mean, I guess we are, like...
+
+[Chance]:  or each of us are talking, like, have our own section
+ about, like, the limitations that we had.
+
+[Chance]:  Um, hold on, read.
+
+[Autumn]:  when I'm looking, I think, you know.
+
+[Autumn]:  This was...
+
+[Autumn]:  actually a decent
+
+[Chance]:  Yeah, Lake.
+
+[Chance]:  Yeah.
+
+[Autumn]:  to like read it like it actually provided reproducible results for mine anyway like I put in my comments I read I had
+ I did a plenty of three times
+
+[Autumn]:  just like you had mentioned chance with like saving the one file, um...
+
+[Autumn]:  I see SV. I didn't do that.
+
+[Autumn]:  And my, at all three times, the highest
+
+[Autumn]:  mean accuracy was for adabuse and I got the same results every time.
+
+[Autumn]:  or at least enough of an outing, so I was like, okay, that's it.
+
+[Autumn]:  God!
+
+[Kristin]:  Yeah, it looks like in my section the they got SVM for them.
+
+[Kristin]:  and iced.
+
+[Autumn]:  Mm hmm.
+
+[Kristin]:  But they were all closed except for like decision tree was a little bit lower, but they were all it was a difference between like
+
+[Kristin]:  5, 9, 6, 5 for.
+
+[Autumn]:  Right.
+
+[Kristin]:  And then point eight five nine five eight and point eight five eight two four for like XG and adaboo so they're I mean it's the same.
+
+[Kristin]:  Oh!
+
+[Kristin]:  I'm very similar and there are other basically they were all very very close except for looks like decision tree is probably like not grades.
+
+[Kristin]:  If somebody was trying to like choose a model to use or something, they should just choose one that doesn't take a lot of computational power because they're all pretty equally good.
+
+[Autumn]:  always choose the easiest one.
+
+[Kristin]:  Yeah, or two.
+
+[Kristin]:  You see this one, it is fine.
+
+[Chance]:  Okay, then.
+
+[Chance]:  Yeah, I'm a result of this. Yeah.
+
+[Chance]:  Um, okay, then I just need two.
+
+[Chance]:  Create a 4x3 table.
+
+[Chance]:  I'm just gonna copy this one.
+
+[Chance]:  And then double-eat.
+
+[Kristin]:  Rush.
+
+[Chance]:  Those four columns.
+
+[Autumn]:  you.
+
+[Chance]:  And this one I'm just gonna copy everything over.
+
+[Autumn]:  Okay, this isn't messy, but I'm so I realize I have to update my table on here.
+
+[Autumn]:  See, this is...
+
+[Autumn]:  I don't like the way it spreads stuff across.
+
+[Chance]:  Yeah.
+
+[Autumn]:  Page breaks, it always cuts off my table and I just do a screenshot.
+
+[Autumn]:  I will not have that.
+
+[Chance]:  Yeah, see, that's the issues that like.
+
+[Chance]:  I think it's because I'm so I use monitors like monitors that are like not.
+
+[Chance]:  standard size or like not.
+
+[Autumn]:  Right.
+
+[Autumn]:  even.
+
+[Chance]:  It's like it distorts.
+
+[Chance]:  It distorts all of them.
+
+[Autumn]:  Yeah, I don't even think this is you.
+ I think it's...
+
+[Autumn]:  I don't know, it's just Google Docs, like I said, I don't...
+
+[Chance]:  Well, and also yeah, like, and that's whenever I, whenever I opened it earlier, it was like it had a bunch of
+
+[Chance]:  Like, like, weird, like, hanging in dense and I'm like, that's...
+
+[Chance]:  Yes, all that.
+
+[Kristin]:  Yeah, I saw those, I thought, look at her.
+
+[Autumn]:  I don't know what happened.
+
+[Autumn]:  Yeah, I just fixed some of those at the top because it wasn't like that.
+ I'm really not that.
+
+[Kristin]:  Thank you very much.
+
+[Chance]:  So I want to center the...
+
+[Chance]:  Uh,
+
+[Kristin]:  Yeah, Ashlyn's has some hanging indents for whatever reason, and my god, I'm
+
+[Autumn]:  I can fit.
+
+[Chance]:  Yeah.
+
+[Autumn]:  I mean.
+
+[Chance]:  Uh,
+
+[Chance]:  All right, and there's the information for all of...
+
+[Chance]:  Yours.
+
+[Chance]:  as well.
+
+[Autumn]:  I'm sorry for who?
+
+[Chance]:  At the very bottom I put in a table that has all of the
+ Yeah.
+
+[Kristin]:  for the SCM.
+
+[Chance]:  like the mean accurate students can be used for the full SVM.
+
+[Chance]:  Data set.
+
+[Chance]:  Okay, now I need two.
+
+[Chance]:  I could do all this work on formatting and now I get to mess it all up whenever I paste these screenshots.
+
+[Chance]:  I'm so excited about that.
+
+[Chance]:  Okay, so this is...
+
+[Chance]:  table
+
+[Chance]:  6 is 4.
+
+[Chance]:  KDD.
+
+[Chance]:  Expanded.
+
+[Chance]:  Honestly, my results were like pretty spot on.
+
+[Kristin]:  Thank you everybody for being close.
+
+[Chance]:  Yeah, so like, I guess that just means that like,
+
+[Chance]:  the things we're actually reproducible.
+
+[Autumn]:  Mm hmm.
+
+[Kristin]:  R.T.
+
+[Kristin]:  Um.
+
+[Chance]:  But I guess also whenever you're not like going through and like fully tuning the models like that like
+
+[Chance]:  It does leave less room for
+
+[Chance]:  for like variability.
+
+[Chance]:  Oh, tch, tch, tch.
+
+[Autumn]:  Okay, sorry, I just opened my table. I'll just throw you off.
+
+[Autumn]:  I'm just gonna leave it alone.
+
+[Autumn]:  All right, cool.
+
+[Chance]:  Uh, no, I don't think she did.
+
+[Chance]:  If anything, I will just do that because then that will give me space to type.
+
+[Chance]:  and
+
+[Chance]:  limitations.
+
+[Chance]:  Also, I'm just going to change everything to being the same font.
+
+[Autumn]:  Okay, yeah.
+
+[Kristin]:  Yeah, we should do that for sure.
+
+[Kristin]:  you to do the reading quiz tonight.
+
+[Chance]:  I need to do that as well.
+
+[Autumn]:  I did these two, there's just a lot of, I know there's always a lot of details.
+ He probably gets even more with this, but he went, okay.
+
+[Autumn]:  Yeah, so I don't know. I'm like, okay, I like, go back, especially when there's multiple
+ toys and it sounds so stupid because it seems like multiple toys should be easy, but I'm like,
+
+[Kristin]:  It's not though.
+
+[Chance]:  Well, and also because some of them, some of them, but...
+
+[Autumn]:  Hmm, all of them.
+
+[Chance]:  Yeah, so it's like, it's like, okay, well, like, I feel like there's a case for all of these to be correct answers.
+
+[Kristin]:  Did he fix the questions that like, didn't have a question and stuff like that?
+
+[Kristin]:  I couldn't remember if it was this week or last week.
+
+[Autumn]:  Yeah, that was last week. This week, I didn't see anything. Yeah.
+
+[Chance]:  Okay, so I need to push this repository, push this to the main.
+
+[Chance]:  Yeah, no, I have to...
+
+[Chance]:  to that.
+
+[Chance]:  And then...
+
+[Chance]:  Uh, hold on a second, too.
+
+[Kristin]:  May I come in?
+
+[Kristin]:  I haven't even looked at the readings this week.
+
+[Chance]:  Yeah, they're all kind of the same again, I feel.
+
+[Kristin]:  I'm sorry.
+
+[Autumn]:  one's a little bit different because it was about like research and publishing and there was
+ like a survey of um
+
+[Kristin]:  Oh, yeah.
+
+[Autumn]:  like post-doctoral, like people doing PhD students are doing their research and like the pressure
+ they felt to publish in the mentoring they got.
+
+[Autumn]:  So that one's a little bit different.
+
+[Kristin]:  That's cool.
+
+[Autumn]:  and have a lot of stabs in there.
+
+[Kristin]:  This is for the, it's the second set of reproducibility papers, right? Yeah.
+
+[Chance]:  Yes.
+
+[Kristin]:  I did that for Adamus.
+
+[Chance]:  Um...
+
+[Chance]:  table two, table four.
+
+[Chance]:  I'm like dropping, yeah.
+
+[Chance]:  I realized I didn't include the fig like I want it to be clear like which ones are from the paper and which ones are not.
+
+[Autumn]:  Hmm
+
+[Chance]:  My old shrub.
+
+[Chance]:  I'm not sure if she's gonna...
+
+[Kristin]:  I don't mean that, I don't mean that, I don't mean that.
+
+[Kristin]:  Okay, bye-bye, it's everything that we have to read so long.
+
+[Autumn]:  I know, I know.
+
+[Kristin]:  Oh my god.
+
+[Kristin]:  I'm just like opening these up and like, oh.
+
+[Kristin]:  Okay, that's gracious.
+
+[Kristin]:  It's our all really long, oh my gosh.
+
+[Kristin]:  Okay, this one's not.
+
+[Kristin]:  and that one's not too bad.
+
+[Kristin]:  So the first three of them are really long.
+
+[Chance]:  I just want oh gosh, I want this to be
+
+[Kristin]:  That's my iPad, I don't want to read all these on my computer's three.
+
+[Chance]:  How can I pull that?
+
+[Autumn]:  Why not?
+
+[Kristin]:  Oh, but why?
+
+[Autumn]:  and I'm on the floor.
+
+[Chance]:  Ah, tch.
+
+[Chance]:  Why can't I not move this table up?
+
+[Chance]:  UGH!
+
+[Kristin]:  So I hate tables and stuff in like word documents.
+
+[Chance]:  Well, it's just like
+
+[Kristin]:  It's always like a mess.
+
+[Chance]:  I mean, I guess we'll just put it underneath.
+
+[Chance]:  Um.
+
+[Chance]:  just like, I just had the thought I'm like, oh, I can put the
+
+[Chance]:  Um.
+
+[Chance]:  the original.
+
+[Chance]:  Data Lake.
+
+[Chance]:  their results as a means of comparison.
+
+[Chance]:  for the SVM models.
+
+[Kristin]:  Thank you.
+ So many unread emails.
+
+[Kristin]:  I like, don't check my empty issue email very often.
+
+[Chance]:  Study, yeah.
+
+[Kristin]:  Oh, that's cool.
+ Yeah, this was like...
+
+[Kristin]:  in the middle of March, but it's an email.
+
+[Kristin]:  from the library, talking about how they, you know, have a family study room with, like,
+ stuff for kids in it and places for the adults to work.
+
+[Kristin]:  like that's cool.
+
+[Autumn]:  Yeah.
+
+[Kristin]:  I accommodate up to family of five with designated workspace for two adults.
+
+[Kristin]:  and lounge space networked computer, whiteboard, dollhouse with accessories, toy trucks, books, and more.
+
+[Kristin]:  That is so cool.
+
+[Kristin]:  like parents were a little off.
+
+[Kristin]:  ...pfft.
+
+[Kristin]:  Yeah, that's super cool.
+
+[Chance]:  That's interesting.
+
+[Chance]:  Um.
+
+[Kristin]:  Yeah, so cool.
+
+[Chance]:  My will also also the
+
+[Chance]:  Like I put the SVM that I ran for the first data set.
+
+[Chance]:  performed a lot better than the
+
+[Chance]:  Thank you.
+
+[Chance]:  than the original.
+
+[Chance]:  like the first one had a mean accuracy of 75.8%.
+
+[Chance]:  mind how to mean accuracy of 83%.
+
+[Kristin]:  We are now.
+
+[Chance]:  So, not complaining.
+
+[Autumn]:  Way to go.
+
+[Kristin]:  Thank you very much.
+
+[Chance]:  And...
+
+[Chance]: ations.
+
+[Chance]:  I'm a lawyer, that would be...
+
+[Chance]:  I'm gonna have to go back to the kitchen later.
+
+[Kristin]:  and I'm gonna go to the school for me random emails.
+
+[Kristin]:  I'm going to take this online student survey just so that I can stop getting emails about it.
+
+[Kristin]:  Oh, here's some email.
+
+[Kristin]:  about a survey about AI on campus.
+
+[Kristin]:  Maybe interesting.
+
+[Chance]:  But actually,
+
+[Kristin]:  science club.
+
+[Chance]:  Yeah, across the board, the...
+
+[Chance]:  I don't know if it was across the board, but like at least in my...
+
+[Chance]:  If you look at Ashlands.
+
+[Chance]:  So...
+
+[Chance]:  So Ashland's foreformed about the same.
+
+[Chance]:  It's interesting.
+
+[Chance]:  T-t-t-t
+
+[Chance]:  uh, I'll just love it here, shans.
+
+[Chance]:  Okay, so I need to do...
+
+[Chance]:  Hey, Autumn, could you write just like this?
+ Be sure to click.
+
+[Chance]:  like we were able to, like,
+
+[Chance]:  was a short blurb like we were able to reproduce a majority of this.
+
+[Chance]:  Type paragraphs.
+
+[Autumn]:  All in the conclusion.
+
+[Chance]:  Yeah, cause um...
+
+[Chance]:  And then I'll drop.
+
+[Chance]:  So I'll add a little bit to the...
+
+[Chance]:  introduction about Lake Jist.
+
+[Chance]:  limitations on data.
+
+[Autumn]:  Bye.
+
+[Chance]:  like some of the things that we, some of the issues that we had.
+
+[Chance]:  with the, like, procuring the data.
+
+[Chance]:  I feel like that's relevant for the introduction and then.
+
+[Chance]:  Um.
+
+[Chance]:  I just kind of want to echo the same.
+
+[Chance]:  limitations that they highlighted in their study, the like.
+
+[Chance]:  like it's not
+
+[Chance]:  or like that it can pose an ethical concern if we like use these three datasets to judge.
+
+[Chance]:  All nukes.
+
+[Autumn]:  All right, because of the sample.
+ We have a way.
+
+[Autumn]:  have clear picture of like who was sample who the students were.
+
+[Autumn]:  And plus that was in China.
+
+[Chance]:  What's that? Yeah, it's like, I think foot.
+
+[Chance]:  like one data set was from China, one data set was from
+
+[Chance]:  Oh, we're good.
+
+[Autumn]:  not trying to hurt you.
+
+[Chance]:  Yeah, I can't remember where the two data sets were from data sources.
+
+[Chance]:  Okay, if I hadn't cattle, I'd let you out.
+
+[Kristin]:  Hahaha.
+
+[Chance]:  You want it out so badly?
+
+[Kristin]:  My nap, my coca just came to climb on me, he'll be there.
+
+[Kristin]:  We all love Kyrgyz.
+
+[Kristin]:  We won't talk about you were just ready to give up and go with the cats that are like you like lighter just as much as us.
+
+[Kristin]:  Ha ha!
+
+[Kristin]:  I got pictures of her laying on the cat's sitters.
+
+[Kristin]:  Just.
+
+[Kristin]:  all kinds of things.
+
+[Kristin]:  It's like, oh, you're my new mommy, okay.
+
+[Chance]:  And get a K-Fine.
+
+[Kristin]:  Thank you.
+
+[Kristin]:  This loyalty I tell you.
+
+[Kristin]:  at least the other two pretended to be apprehensive.
+
+[Chance]:  I missed a column, I missed a column on this one.
+
+[Chance]:  Like, look at that, I was like, oh, they didn't.
+
+[Chance]:  We didn't calculate f1 score.
+
+[Chance]:  for the third.
+
+[Chance]:  and...
+
+[Chance]:  Yeah.
+
+[Autumn]:  Oh wow, your accuracy scores for the KVD deep learning, the first one are like super close!
+
+[Chance]:  Yeah, like... the key.
+
+[Chance]:  data sets.
+
+[Chance]:  The faxed blood here.
+
+[Autumn]:  Thank you.
+
+[Autumn]:  you.
+
+[Autumn]:  you
+
+[Chance]:  I need to also get our GitHub.
+
+[Autumn]:  Thank you.
+
+[Kristin]:  It's the longest. I'm trying to take their stupid survey about the online programs that's so long.
+
+[Chance]:  Thank you.
+
+[Kristin]:  I thought I was going to be like a few questions and here I am like 20 questions later, like still answering this thing.
+
+[Kristin]:  just like, okay, never mind.
+ Do that right now.
+
+[Kristin]:  I'm just afraid they're gonna email me every few days until the deadline which isn't till the middle of April
+
+[Kristin]:  Ha-ha-ha!
+
+[Chance]:  I'm sorry, I'm not trying to mess you up.
+
+[Autumn]:  Oh, that's okay.
+
+[Chance]:  Ah, tch, tch.
+
+[Chance]:  which is all too little.
+
+[Chance]:  If you do so, then...
+
+[Kristin]:  What's a bit bucket?
+
+[Kristin]:  I thought we did it correct that.
+
+[Chance]:  No, so BitDuckit is...
+
+[Kristin]:  Yeah.
+
+[Chance]:  It is like another form of like
+
+[Chance]:  It's kind of like GitHub but not as streamlined.
+
+[Kristin]:  Okay.
+
+[Kristin]:  Sounds like a joy.
+
+[Chance]:  So, to get the KDE expanded data set, I had, like,
+
+[Chance]:  So you know how, like, in the paper, how it mentions, like, reusing this data set from this other paper, so I had to go, go into that paper and then, like, go it, like, basically, like, just scour for a link.
+
+[Kristin]:  Oh my gosh.
+
+[Chance]:  And the Bit bucket was not like working on this while at all.
+
+[Kristin]:  I don't know.
+
+[Chance]:  I ended up having to read through their code.
+
+[Chance]:  several different times and then like head to the lake.
+
+[Chance]:  Just tinker around with different locations of where their data was stored.
+
+[Kristin]:  Ridiculous.
+
+[Chance]:  And then I literally had to
+
+[Chance]:  So like, I had to
+
+[Chance]:  pull the data from the CSV that's stored on this because I couldn't just download it.
+
+[Chance]:  It was a whole thing.
+
+[Chance]:  Um.
+
+[Kristin]:  Now I'm, it's crazy.
+
+[Kristin]:  Addison saying.
+
+[Chance]:  But yeah, no.
+
+[Chance]:  like that's why I like whenever.
+
+[Chance]:  That's why it took me so long to get the data like.
+
+[Chance]:  procured because it was just like.
+
+[Chance]:  Okay, like I have to make it to where it...
+
+[Chance]:  Runs?
+
+[Chance]:  And like.
+
+[Chance]:  creates instances of this data without saving it anywhere because otherwise GitHub would
+ not commit anything.
+
+[Kristin]:  I'm so impressed that you were able to do that though.
+
+[Autumn]:  I know, because seriously, I think we would have been fine if we would have been okay.
+
+[Kristin]:  I'm so blown away!
+ Hahaha!
+
+[Kristin]:  Right.
+
+[Autumn]:  this was done with a good faith effort and we couldn't.
+ I kind of feel like that's what he's expecting.
+
+[Autumn]:  in some ways or to some extent, but um
+
+[Autumn]:  Yeah
+
+[Autumn]:  I wrote, Kristen, do you want to read my conclusion?
+
+[Kristin]:  So our feeing will be popped over there.
+
+[Autumn]:  And so I didn't know if you're still working on the intro though, I guess everyone.
+
+[Kristin]:  Yeah, he's, he's still typing away up there.
+
+[Kristin]:  Okay, let me take a look.
+
+[Autumn]:  Thank you for sometimes I have a hard time, like, typing and...
+
+[Autumn]:  like constant pregnant hearing, so if there's something in there that you're like, what did you just type out on?
+
+[Kristin]:  Ha-ha-ha-ha.
+
+[Autumn]:  Thanks David, just straight out ask me like, what is this?
+
+[Kristin]:  I think it looks good to me.
+
+[Autumn]:  Oh, I'm coming.
+
+[Autumn]:  I'm trying to work.
+
+[Kristin]:  I need to like add something about my...
+
+[Kristin]:  data set because I have the abbreviated one so I should probably like say
+
+[Kristin]:  what features were included.
+
+[Autumn]:  Oh, I did not put that in my part.
+
+[Chance]:  Yeah, I didn't either.
+
+[Autumn]:  Yeah, I don't know.
+
+[Kristin]:  Yeah, well, I had this small one, so it only had like 16 features.
+
+[Autumn]:  Oh!
+
+[Kristin]:  So I might just like.
+
+[Kristin]:  in there that like this, I don't know, just said this is the...
+
+[Kristin]:  A brief day and a day. It's an included information about X-Lion Z.
+
+[Autumn]:  Okay.
+
+[Kristin]:  Let me go back to the next page.
+
+[Autumn]:  Yeah.
+
+[Autumn]:  I guess it's really down like I can go to my coat, but I didn't I didn't cross my mind because it wasn't like here in the
+
+[Kristin]:  ones have like huge amount of features.
+
+[Autumn]:  Yeah, I'm 140.
+
+[Kristin]:  Yeah, this one only has like
+
+[Kristin]:  14 that are useful, I think.
+
+[Autumn]:  Okay.
+
+[Kristin]:  like 14 that aren't either the ID or the target variable?
+
+[Autumn]:  Mm hmm.
+
+[Kristin]:  So it's Action Count, Server Navigate, Server Access, Server Problem, Server Page Close, all of those counts.
+
+[Kristin]:  Um.
+
+[Kristin]:  browser like you live.
+
+[Chance]:  Oh, what do we need to do about like?
+ Um.
+
+[Chance]:  about...
+
+[Chance]:  Um.
+
+[Chance]:  environment.
+
+[Chance]:  I remember reading something about that like what
+
+[Kristin]:  What is that even possible to be environment? Let me go back to.
+
+[Chance]:  Yeah, if you could.
+
+[Autumn]:  Okay, final report, I'm looking at that methodology environmental setup.
+
+[Autumn]:  So I guess maybe I know on this paper they talk about using Jupiter.
+
+[Autumn]:  or.
+
+[Kristin]:  What was I even going to be in?
+
+[Chance]:  Well, I thought it was more of a...
+
+[Chance]:  Um.
+
+[Chance]:  I thought it was more of like a what packages are needed.
+
+[Autumn]:  I'm not going.
+
+[Kristin]:  Let me see you.
+
+[Autumn]:  Well, was it Scikit-learned?
+
+[Kristin]:  You know, collect implementation of methods, recreation of
+
+[Kristin]:  ebiblization documentation of all stats.
+
+[Kristin]:  a pair of sand.
+
+[Autumn]:  We're looking okay.
+
+[Kristin]:  Oh, for the um
+
+[Kristin]:  for the challenges or limitations or whatever.
+ I
+
+[Kristin]:  We could also
+
+[Kristin]:  I forget if anybody mentioned like outdated code.
+
+[Kristin]:  We could mention that as well, like if we were trying, you know, because the code was included.
+
+[Chance]:  Yeah.
+
+[Kristin]:  That's anybody had trouble with outdated code?
+
+[Chance]:  Um, I did, but like, that was all in the front end.
+
+[Chance]:  Um.
+
+[Chance]:  across 158.
+
+[Chance]:  features.
+
+[Kristin]:  Where's the thing about environments?
+
+[Autumn]:  See you next time!
+
+[Kristin]:  Where is it at?
+
+[Chance]:  I thought it was in the assignment details.
+
+[Autumn]:  There is, so there's, it's like a couple different places, so GitHub repository, okay, environment configuration files, and then file report technical requirements, um,
+
+[Autumn]:  Use version control for all code, document computational environment.
+
+[Kristin]:  All of a sudden in me and
+
+[Autumn]:  I know, I'm like, um...
+
+[Kristin]:  Also, what is version control for all code? What's that mean?
+
+[Chance]:  um i guess i would just be
+
+[Chance]:  Um, like the-
+
+[Autumn]:  think it's if you were like whatever version of the library you have downloaded.
+
+[Chance]:  Yeah.
+
+[Autumn]:  like 10.1.2
+
+[Chance]:  Let me see if I can...
+
+[Chance]:  I can probably create a quick one
+
+[Chance]:  Um.
+
+[Kristin]:  I don't know if that is.
+
+[Autumn]:  Well, the only reason I know is from reading these papers.
+
+[Autumn]:  One of them talks a lot about that.
+
+[Kristin]:  I mean, there's like too many things listed here.
+
+[Chance]:  All right, add it a little bit to the trickation.
+
+[Kristin]:  for something that's worth like 60 points, like I'm done over it.
+
+[Chance]:  Um, tch, tch.
+
+[Chance]:  And pull that up.
+
+[Kristin]:  Like, there's all of these different little bullet points of something for something that's worth literally 60 point.
+
+[Chance]:  Um, tt shh.
+
+[Autumn]:  I kind of feel okay, let's see, in the introduction.
+
+[Autumn]:  We put it like
+
+[Kristin]:  And he's like, never taken a point off of us in our group
+
+[Autumn]:  Thank you.
+
+[Kristin]:  Thanks.
+
+[Autumn]:  I don't say that, man.
+
+[Kristin]:  Unlike
+
+[Chance]:  Okay, so
+
+[Chance]:  I'm trying to make sure I have everything, so I have...
+
+[Chance]:  Oh, I guess I need a double check and make sure that there's no additional
+
+[Chance]:  ones in those super notebooks.
+
+[Chance]:  because those just use.
+
+[Kristin]:  We have to do another exam this weekend, we do, don't we?
+
+[Kristin]:  for my girl.
+
+[Autumn]:  We do, and I'm so scared to take it.
+ And like, do I take it in the library with my laptop?
+
+[Chance]:  Oh, that's the other thing I need to...
+
+[Kristin]:  Oh yeah, because you had to end up going to school and redoing it.
+
+[Autumn]:  But yeah, it was, I had finished, I wasn't like, over halfway done, but at the last three
+ essay questions.
+
+[Autumn]:  And...
+
+[Autumn]:  my computer.
+
+[Chance]:  Thank you.
+
+[Kristin]:  That is really, he should have just given you another online attempt, like, for a while.
+
+[Kristin]:  Eat it and just do that.
+
+[Autumn]:  I mean, I don't know. I was there. It was fine. I just sat out in the lobby.
+
+[Kristin]:  it just seems like it would be easier for him to just give you another attempt online like
+
+[Chance]:  any pep?
+
+[Autumn]:  Yeah, I don't know.
+
+[Chance]:  Let's go.
+
+[Kristin]:  No, Karen.
+
+[Autumn]:  I guess I just don't want any.
+ Like, I don't want to have to do any reattempts because you know I'm in my work flow and
+ I was like, okay, I'm halfway done, I've got to like finish this and then it just shut down.
+
+[Autumn]:  And then, um, yeah, what happened is when I went back in, like,
+
+[Autumn]:  Proctor you was like we've got to do all your tests again. Okay, whatever
+
+[Autumn]:  So they checked my camera and did all that,
+ but it's like it had submitted the test.
+ So when I got taken back to D2L,
+ it's like your one chance is up.
+ Like it had just auto-submitted.
+
+[Chance]:  Oh, yeah.
+
+[Autumn]:  when my internet shut down.
+
+[Autumn]:  So luckily I didn't have to redo the whole thing
+ because he could see where I finished the multiple choice
+ in the first essay questions.
+ It was like thank goodness.
+
+[Chance]:  Okay, let me...
+
+[Kristin]:  Yes, it updated any of the zoom like discussion points in several weeks for me.
+
+[Autumn]:  Thank you.
+
+[Kristin]:  Like the last one that has a three.
+
+[Autumn]:  You know, I haven't even looked.
+ And he hasn't braided our laugh as high.
+
+[Kristin]:  Yeah, no, he hasn't or the project.
+
+[Kristin]:  like the last one that has, like, a grade as a week five zoom for me.
+
+[Autumn]:  um live and i don't even
+
+[Autumn]:  indeed, well, right now.
+
+[Kristin]:  I'm trying to see if it gave me credit for the quiz that I took late, it looks like it did, so that's cool.
+
+[Autumn]:  I'm bad.
+
+[Kristin]:  Love that.
+
+[Kristin]:  That only took quite a bit of days yet.
+
+[Kristin]:  I just forgot because I was sick, and I was like, oh god, that's that, look where is that.
+
+[Autumn]:  Thank you.
+
+[Chance]:  Um, skips, skips.
+
+[Chance]:  I guess I could just create
+
+[Autumn]:  I have some other way for a second. I'll do right back.
+
+[Kristin]:  Hey, pal.
+
+[Autumn]:  Okay, now that you guys can see me, but sorry, I hate the multi-factor authentication.
+
+[Chance]:  I teach you.
+
+[Autumn]:  I'm going to find my phone.
+
+[Kristin]:  I miss when it was you only.
+
+[Kristin]:  have to do it once a week.
+
+[Kristin]:  every single one.
+
+[Kristin]:  Thank you.
+
+[Chance]:  Um, all right, let's get it.
+
+[Chance]:  Boom.
+
+[Chance]:  And...
+
+[Chance]:  need to go to one of y'all's files and get the yeah.
+
+[Autumn]:  Is there anything you can do like you're just
+
+[Kristin]:  Right, can we assist you, League?
+
+[Autumn]:  I know!
+
+[Chance]:  Oh, no. Um, like what I'm doing is I'm just.
+
+[Kristin]:  We are a completely different from you.
+
+[Chance]:  I'm getting all of the packages that were needed.
+
+[Autumn]:  Oh!
+
+[Kristin]:  else.
+
+[Chance]:  So what I'm going to do is
+
+[Chance]:  Yeah, it could like
+
+[Kristin]:  The top of mine has a huge long list that I copied straight out of the original, um, researchers thingy.
+
+[Kristin]:  No folks.
+
+[Chance]:  It was just like a lot of...
+
+[Kristin]:  you
+
+[Chance]:  So that's like, it was a lot that like, a lot of them were from SK Learn, but then like, I implemented some
+
+[Chance]:  Like for example, like the Jupiter notebook one ones the way those are structured is
+
+[Chance]:  Basically, you...
+
+[Chance]:  Um.
+
+[Chance]:  like it prompts the user to, or I can literally do this.
+
+[Chance]:  This is the package that I used for two of the things I've done at work.
+
+[Chance]:  Ah, I'm not t-t-t-t.
+
+[Chance]:  So.
+
+[Chance]:  are you all able to see it?
+
+[Kristin]:  I'm coming back to you.
+
+[Autumn]:  Thank you.
+
+[Kristin]:  Thank you right now.
+ Thank God.
+
+[Kristin]:  Let's second.
+
+[Chance]:  Thank you.
+
+[Chance]:  This takeHinter package is like a file prompt one.
+
+[Chance]:  So.
+
+[Chance]:  It starts to run and then it wants to open a folder.
+
+[Chance]:  So I can see like, okay.
+
+[Chance]:  Data.
+
+[Chance]:  and create a new folder for it.
+
+[Chance]:  and then it will download the data from these sources.
+
+[Kristin]:  Oh, nice.
+
+[Autumn]:  Thank you for that.
+
+[Chance]:  And then it's just.
+
+[Autumn]:  whatever one.
+
+[Autumn]:  get that. Not that this is made.
+
+[Kristin]:  Never.
+ Never.
+ Never.
+
+[Chance]:  And then this KDB.
+
+[Chance]:  Cupduda set.
+
+[Chance]:  you run after you've already downloaded it or I think you run after you download it.
+
+[Kristin]:  at our homes.
+
+[Chance]:  And I just replicated it.
+
+[Chance]:  Oh, it checked it.
+
+[Kristin]:  All I know is I'm going to have to put on my little form that
+ chance did like 40% of the work.
+
+[Autumn]:  Right.
+
+[Kristin]:  Thank you.
+
+[Chance]:  But yeah, it's like what it is.
+
+[Chance]:  this is what it looks like once it's done it like
+
+[Chance]:  You should be able to see it in real time as extracting files from these
+
+[Kristin]:  equal and st.
+
+[Kristin]:  Yeah, I'll copy it just.
+
+[Kristin]:  I set a couple of projects ago, I think I put on there.
+
+[Kristin]:  that ants had done like the technical stuff, I don't know.
+
+[Autumn]:  I will do it.
+
+[Kristin]:  And he, um,
+
+[Kristin]:  if you like giving me feedback saying like, oh, it's so good to acknowledge when somebody's doing
+ like more stuff. I'm like, oh,
+
+[Chance]:  that might have been that might have been the project whatever he was like, yeah, I think you're you're not giving yourself enough credit based on what I'm
+
+[Autumn]:  All.
+
+[Kristin]:  Oh, that's funny.
+
+[Chance]:  Well, especially like that last, the last project, like, I don't feel like I did anything because I was just like spitting my wheels trying to get
+
+[Chance]:  get it like working.
+
+[Chance]:  And then, like, my entire portion of the project got cut, so it was like, well, shit.
+
+[Kristin]:  Oh my goll crap.
+
+[Autumn]:  No.
+
+[Chance]:  But yeah, Autumn, this would be a really good package for you to get to learn.
+
+[Chance]:  How do I like use?
+
+[Kristin]:  What is it?
+
+[Chance]:  especially if you like.
+
+[Chance]:  no, no, so like
+
+[Kristin]:  I have never heard of that in my life.
+
+[Autumn]:  You have this much faith in me, chance.
+ I appreciate it.
+ Thank you.
+
+[Autumn]:  You need to score.
+
+[Chance]:  So T country.
+
+[Chance]:  T. Kencher.
+
+[Autumn]:  Yeah, I wanted to call it Shanker.
+
+[Kristin]:  Me too!
+
+[Chance]:  Yeah. I mean.
+
+[Autumn]:  Thank you.
+
+[Chance]:  that it helps.
+
+[Chance]:  But so it's like there is a package so like I use this one with another package that does
+ Um.
+
+[Chance]:  kind of working with Excel files.
+
+[Kristin]:  Oh.
+
+[Autumn]:  mm.
+
+[Chance]:  So like, basically, like you read an SCSV and then like you do all of your manipulation on the CSV.
+
+[Autumn]:  Wow.
+
+[Chance]:  and then use this other package to export to an Excel file and then you can do a bunch of lake.
+
+[Chance]:  like conditional formatting.
+
+[Chance]:  like formatting tables, like all of that stuff.
+
+[Chance]:  And then it produces it.
+
+[Autumn]:  And that's since you've heard over.
+
+[Chance]:  Yeah, like you can you can do
+
+[Chance]:  all your manipulation and
+
+[Chance]:  Python and then it's...
+
+[Chance]:  spits out the like the silly.
+
+[Chance]:  What I use it for is
+ Um.
+
+[Chance]:  We have to leave.
+
+[Chance]:  to work for now and like verify that like all of our borders that are set to ship.
+
+[Autumn]:  mm-hmm.
+
+[Chance]:  for the day are like actually like ready to go.
+
+[Autumn]:  on one.
+
+[Kristin]:  Oh no.
+
+[Chance]:  And so like what normally would take me like five to 10 minutes to like open the report.
+
+[Chance]:  like filter it a certain way like
+
+[Chance]:  highlight specific rows for orders that we're not doing yet orders that like we've already shipped like
+
+[Chance]:  I just automated all that.
+
+[Chance]:  We're now.
+
+[Autumn]:  Let's go. Yeah, that's wrong.
+
+[Autumn]:  I'll go ahead.
+
+[Chance]:  Oh, like that, that's all I was going to say like it, it's just like, it saves me like.
+
+[Chance]:  Anywhere from light.
+
+[Chance]:  three to seven minutes a day, like
+
+[Chance]:  Now, now I limiting factors, literally just how long it takes my computer and the website
+ I pull the data from to like.
+
+[Chance]:  Have it ready.
+
+[Autumn]:  No, that's really good. I have to just
+
+[Autumn]:  work with my supervisor and our compliance officer because even though the data I work with
+ isn't directly health related, it's pretty bad.
+
+[Chance]:  Yeah.
+
+[Autumn]:  You're slowly protected.
+
+[Autumn]:  And we have AI stuff and like I'm scared to just even put anything in there.
+
+[Autumn]:  because we have so many state contracts and so many different levels of liability.
+
+[Autumn]:  that it's kind of frustrating. I'm like, I know.
+
+[Autumn]:  We could do so much more with this, but also don't want to lose my job because...
+
+[Autumn]:  you know, like
+
+[Autumn]:  about that idea identified something enough
+ to put it into a program and that wasn't the case.
+
+[Chance]:  Oh, that is, I just realized I forgot to.
+
+[Chance]:  I need my...
+
+[Chance]:  deep learning library as I didn't get those.
+
+[Chance]:  Oh no, I did.
+
+[Autumn]:  Yeah, in cursing, you look back to you, I week five zoom is the last grade I have updated to.
+
+[Kristin]:  Okay, so he just hasn't updated them.
+
+[Autumn]:  Mm hmm.
+
+[Kristin]:  Fair enough.
+
+[Kristin]:  I didn't really go down the last test that he graded.
+
+[Chance]:  I did too.
+
+[Kristin]:  But I don't know how I feel about the last one that we took.
+
+[Autumn]:  You're here.
+
+[Chance]:  Yeah, I don't.
+
+[Autumn]:  Yeah.
+
+[Kristin]:  Like, on the last one, he graded.
+
+[Kristin]:  He gave me, I didn't even look at the feedback, I don't know what I missed, but he gave me 110.75.
+
+[Kristin]:  out of 115.
+
+[Autumn]:  Nice.
+
+[Autumn]:  Thank you.
+
+[Kristin]:  Like yay. I don't know what I missed.
+
+[Chance]:  I'm...
+
+[Chance]:  Files.
+
+[Kristin]:  I don't even know if we can see what we missed, honestly.
+
+[Chance]:  Yeah, I don't I don't think he's turned on the
+
+[Chance]:  the setting to where you can view everything.
+
+[Kristin]:  Thank you, House of Events.
+
+[Autumn]:  I think that would be the nicest for the quizzes.
+
+[Kristin]:  Yeah, he definitely I meant to mention, I think I'm going to mention that tomorrow.
+
+[Autumn]:  Yeah, good.
+
+[Kristin]:  We need to be able to see what questions we're missing on the quizzes because we don't have
+ any way, like, how are we supposed to study, you know?
+
+[Autumn]:  Thank you.
+
+[Autumn]:  thought he did that because I remember one class he looks at it but
+
+[Autumn]:  I didn't actually work.
+
+[Chance]:  Yeah.
+
+[Autumn]:  Oh. Mm-hmm.
+
+[Autumn]:  Thank you.
+
+[Kristin]:  He looked at it for the I think it was the first exam where everybody was saying like I can't see my feedback and I haven't I don't have any feedback on this last one either so like who knows, but
+
+[Kristin]:  Um.
+
+[Kristin]:  Yeah, he definitely needs to do it for the quizzes because like
+
+[Kristin]:  It's frustrating to just take it over and over and like not know which question you're missing.
+
+[Autumn]:  Right.
+
+[Kristin]:  just does not really help.
+
+[Kristin]:  Okay.
+
+[Kristin]:  I don't know what to say.
+
+[Kristin]:  questions about serving.
+
+[Chance]:  Oh, I think anyway, you do, I need to just put all of this.
+
+[Chance]:  into one.
+
+[Chance]:  food block.
+
+[Chance]:  Okay, there we go.
+
+[Chance]:  I think that is...
+
+[Kristin]:  in the next round.
+
+[Chance]:  Everything, TensorFlow Keras, I can't learn.
+
+[Chance]:  last day I torch.
+
+[Chance]:  I'm a tensor flow, or a tensor flow in here.
+
+[Chance]:  Oh yep, there it is yeah.
+
+[Chance]:  I'm just gonna save this, I think this is what you want, but...
+
+[Kristin]:  Well, for us.
+
+[Chance]:  Buh-buh-buh, clear output, save.
+
+[Kristin]:  I could mention, I don't know if it matters, conclusion.
+ I could put in the conclusion.
+
+[Kristin]:  that the...
+
+[Kristin]:  The results for the really small data set with like 14 features were almost exactly the same as the one with 140 features like there was no need to like have so many predictors.
+
+[Autumn]:  I'm.
+
+[Chance]:  I mean, a lot of-
+
+[Kristin]:  to get good results with most of the models.
+
+[Chance]:  Yeah.
+
+[Chance]:  I'm tch, tch, tch.
+
+[Chance]:  All right, I think that...
+
+[Autumn]:  Okay, wait.
+
+[Chance]:  Okay, so there's that, there's our GitHub.
+
+[Kristin]:  Um.
+
+[Autumn]:  Okay, say that again, what'd you just say?
+
+[Kristin]:  Yeah, the results for most of the models.
+
+[Autumn]:  Okay.
+
+[Autumn]:  Okay.
+
+[Kristin]:  were very similar between the reduced data set with that only had like 14 or 15 predictors
+ versus the one that you did that had like 140 predictors.
+
+[Kristin]:  So the stuff that was in my dataset was only like information about accessing the server and
+ accessing the website and like how many times it crashed and what like interaction and apparently
+ that information is like enough.
+
+[Autumn]:  Okay.
+
+[Kristin]:  to make the prediction without anything else.
+
+[Chance]:  I was thinking too.
+
+[Kristin]:  That's funny, right?
+
+[Chance]:  I was going to get... I was going to set up my individual.
+
+[Kristin]:  Where did I put my other window?
+
+[Chance]:  I hate.
+
+[Kristin]:  And wonders to this.
+
+[Chance]:  I hate when that happens.
+
+[Kristin]:  Where could we wear this line? Well, that's...
+
+[Chance]:  Uh, tsk, okay.
+
+[Chance]:  Save the copy.
+
+[Kristin]:  copy M&M.
+
+[Chance]:  Natural 5.
+
+[Chance]:  Oh.
+
+[Kristin]:  And then on I dropped the
+
+[Kristin]:  I dropped the .info for the dataset that I had in the text chat.
+
+[Kristin]:  if you just wanna see, like, what was the...
+
+[Autumn]:  Bye.
+
+[Kristin]:  like what features were in the short dataset, yeah.
+
+[Autumn]:  Yeah, they were listening in the paper and I saw it's bright because I still have the paper pulled up. I was looking back and
+
+[Kristin]:  Yeah, it was basically just like how many times they access the website or the server and like how many
+ probably how many errors they had and stuff.
+
+[Autumn]:  video about ya.
+
+[Kristin]:  and apparently that information was like all it took to basically get the same
+
+[Kristin]:  I think one of my cats is very interested in something going a lot outside like it's dark out.
+
+[Kristin]:  There's nothing there unless there's like a bug at the window.
+
+[Kristin]:  Maybe.
+
+[Chance]:  Yeah, my cats are just chillin'.
+
+[Chance]:  Um.
+
+[Kristin]:  One of them's children in my lap.
+
+[Autumn]:  Bye.
+
+[Chance]:  All right. I think I think that's everything. I guess I should probably.
+
+[Kristin]:  Thank you for having me.
+ Good.
+
+[Chance]:  Actually, no, I don't need to distinguish which one needs to be run first.
+
+[Chance]:  I'm a ttch.
+
+[Chance]:  So there's the environment file codes done.
+
+[Chance]:  Conclusion.
+
+[Chance]:  basically done.
+
+[Chance]:  All that is really left is
+
+[Chance]:  Um.
+
+[Chance]:  Um.
+
+[Chance]:  Veee.
+
+[Chance]:  like the exporting
+
+[Autumn]:  Thank you very much.
+
+[Chance]:  been summarizing.
+
+[Chance]:  for the discord notes.
+
+[Kristin]:  of the AI thing, yeah.
+
+[Chance]:  Yeah.
+
+[Kristin]:  Yep. Yeah.
+
+[Chance]:  So do you think we're at a good spot to?
+
+[Chance]:  to hop off.
+
+[Kristin]:  I think we are. I think we're good.
+
+[Autumn]:  Mm, I'm good.
+
+[Chance]:  Um, Kristen, can you upload again?
+
+[Kristin]:  Yeah, I can.
+
+[Chance]:  Awesome.
+
+[Chance]:  Um.
+
+[Kristin]:  years like the PDF.
+
+[Kristin]:  Sure.
+
+[Chance]:  Yeah, just upload the PDF and then it I already added our GitHub repository to the very top so you shouldn't have an issue finding it.
+
+[Chance]:  Hopefully.
+
+[Kristin]:  Thank you.
+
+[Autumn]:  Okay, and I'm just finishing up. I'm adding a couple sentences here.
+ Yeah.
+
+[Kristin]:  Okay, well, I will upload it a little bit later.
+
+[Autumn]:  Okay, thank you so much.
+
+[Autumn]:  I'm your auntie.
+
+[Kristin]:  Welcome to more projects left you guys.
+
+[Chance]:  Yeah, I think next one the next project I don't think is going to be I'm curious is to like what the code element is going to look like
+
+[Kristin]:  I looked at it, the privacy, oh yeah, that's the one where you're supposed to go.
+
+[Chance]:  like the term, the terms of...
+
+[Kristin]:  like look at your stuff that you have agreed to.
+
+[Chance]:  But yeah.
+
+[Chance]:  Yeah, the terms of service one.
+
+[Kristin]:  interesting.
+
+[Chance]:  sorry muley
+
+[Kristin]:  You'll analyze real policy policies you've accepted, compare practices.
+
+[Kristin]:  and assess their compliance with current regulations.
+
+[Kristin]:  I don't know if there would be a coding aspect of this one.
+
+[Chance]:  Yeah, that's what I'm...
+
+[Autumn]:  There's always a learning aspect.
+
+[Kristin]:  It seems like mouth.
+
+[Chance]:  I mean...
+
+[Chance]:  like it seems like there would be, but I don't think there's going to be, like I think it's going to be more of it.
+
+[Kristin]:  Like, how could there be really?
+
+[Kristin]:  Yeah.
+
+[Chance]:  Like or unless like the it's going to be a more of a collaborative it's like we're each like expected they're like find one
+
+[Chance]:  and then like.
+
+[Chance]:  What is the same, what is it?
+
+[Chance]:  Yeah.
+
+[Kristin]:  I mean, I guess we could do some sort of like sentiment analysis or whatever to like see what the common themes are in the privacy policies or
+
+[Kristin]:  something. I don't know.
+
+[Chance]:  But I feel like, yeah, I don't know, yeah, like, I think it's kind of one of those, like,
+
+[Chance]:  up in the air like I'm curious as to like what he's going to say tomorrow and next week about it.
+
+[Kristin]:  game. Although it looks like it opens up at like 1201 tonight. So if I look at it!
+
+[Kristin]:  Ah!
+
+[Kristin]:  Oh, me.
+
+[Chance]:  But all right, I will see you all later and then once y'all hop out, I will.
+
+[Chance]:  Um.
+
+[Chance]:  do all of the discord stuff, actually I'm going to open that right now, that way that's
+ one less thing I have to do, because it'll take it a while to open.
+
+[Chance]:  But all right, I will see you all next.
+
+[Kristin]:  All right, so I'll upload this once everybody's done editing.
+
+[Chance]:  Oh, and then for slides, I can add some stuff tomorrow.
+
+[Chance]:  I think we can it.
+
+[Autumn]:  Okay, and I draw.
+
+[Chance]:  I kind of just want to keep it like simple like
+
+[Chance]:  like go through like
+
+[Chance]:  I can do a few slides.
+
+[Chance]:  What are you?
+
+[Chance]:  What has gotten into you, too?
+
+[Chance]:  Um.
+
+[Chance]:  So what I can do is I think like how I want to approach it is
+
+[Chance]:  kind of like an overview of the paper and then
+
+[Chance]:  kind of just like mimic the analysis.
+
+[Kristin]:  Yeah, like this is what we found.
+
+[Chance]:  like due date is that one.
+
+[Chance]:  Data set one, data set two, data set three.
+
+[Chance]:  conclusions and then limitations.
+
+[Chance]:  then just kind of go.
+
+[Autumn]:  Yeah, I put a quick little bullet point in the introduction, you know, from our opening paragraph and then I see Ashlyn has put in her table results. I put in a slide with my results and the original and a couple bullet points about that. So
+
+[Autumn]:  All right and yes I just if anyone wants to take a double glance at the conclusion um please do so because I
+
+[Autumn]:  think that's all wrapped up.
+
+[Autumn]:  and can be ready to go as a PDF.
+
+[Chance]:  I'm going to see if I can get this all on one page or like what
+
+[Chance]:  if there's any other spots that I can.
+
+[Autumn]:  Thank you.
+
+[Chance]:  There we go.
+ Almost.
+
+[Autumn]:  All right.
+
+[Chance]:  Yeah, looks good.
+
+[Autumn]:  Cool, thanks everyone. You guys have a good night. Be safe.
+
+[Chance]:  Hey, you two!
+
+[Autumn]:  Thank you.
+
+[Kristin] - event: disconnected
+[Chance] - event: disconnected
+[Autumn]:  All right, bye.
